@@ -89,3 +89,9 @@ yarn start
 ```
 http://localhost:3000/
 ```
+
+4. update entries from Google Docs:
+
+```
+yarn generate
+```
